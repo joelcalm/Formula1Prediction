@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joelcalm/Formula1Prediction">
+  <a href="[https://github.com/joelcalm/Formula1Prediction](https://github.com/joelcalm/Formula1Prediction/blob/main/logo.png)">
     <img src="img/rficon.png" alt="Logo" width="80" height="80">
   </a>  
 
@@ -156,7 +156,7 @@ A hypothetical betting scenario for the 2024 season was tested, using model pred
 
 Joel Calm  - [@joel-calm](https://www.linkedin.com/in/joel-calm/) - joelcalm44@gmail.com
 
-Project Link: [https://github.com/joelcalm/RandomForest](https://github.com/joelcalm/Formula1Prediction)
+Project Link: [https://github.com/joelcalm/RandomForest](https://github.com/joelcalm/RandomForest)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
