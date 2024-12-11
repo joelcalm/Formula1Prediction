@@ -28,7 +28,7 @@
     <a href="https://github.com/joelcalm/Formula1Prediction"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/joelcalm/Formula1Prediction">View Demo</a>
+    <a href="https://github.com/joelcalm/Formula1Prediction">View</a>
     ·
     <a href="https://github.com/joelcalm/Formula1Prediction/issues">Report Bug</a>
     ·
@@ -165,10 +165,15 @@ Project Link: [https://github.com/joelcalm/Formula1Prediction](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/joelcalm/Formula1Prediction.svg?style=for-the-badge
-[contributors-url]: https://github.com/joelcalm/Formula1Prediction/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/joelcalm/RandomForest.svg?style=for-the-badge
+[contributors-url]: https://github.com/joelcalm/RandomForest/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/puchee99/PytorchClassifier.svg?style=for-the-badge
-[forks-url]: https://github.com/joelcalm/Formula1Prediction/network/members
-[stars-shield]: https://img.shields.io/github/stars/joelcalm/Formula1Prediction.svg?style=for-the-badge
-[stars-url]: https://github.com/joelcalm/Formula1Prediction/stargazers
-[issues-shield]: https://img.shields.io/github/issues/joelcalm/Formula1Prediction.svg?style=for-the-badge
+[forks-url]: https://github.com/joelcalm/RandomForest/network/members
+[stars-shield]: https://img.shields.io/github/stars/joelcalm/RandomForest.svg?style=for-the-badge
+[stars-url]: https://github.com/joelcalm/RandomForest/stargazers
+[issues-shield]: https://img.shields.io/github/issues/joelcalm/RandomForest.svg?style=for-the-badge
+[issues-url]: https://github.com/joelcalm/RandomForest/issues
+[license-shield]: https://img.shields.io/github/license/joelcalm/RandomForest.svg?style=for-the-badge
+[license-url]: https://github.com/joelcalm/RandomForest/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joel-calm/
