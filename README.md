@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/joelcalm/Formula1Prediction](https://github.com/joelcalm/Formula1Prediction)">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="f1logo.png" alt="Logo" width="80" height="80">
   </a>  
 
   <h3 align="center">Formula1 Outcome Prediction</h3>
