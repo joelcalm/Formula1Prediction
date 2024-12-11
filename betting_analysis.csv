@@ -1,4 +1,4 @@
-circuit,country,odds favourite,predicted_winner,actual_winner,odds predicted,decimal_odds,winnings,cumulative_winnings
+circuit,country,odds favourite,predicted_winner,actual_winner,odds predicted,decimal_odds,race_winnings,total_winnings
 bahrain,Bahrain,Max Verstappen,Max Verstappen,Max Verstappen,-600,1.17,17.0,17.0
 jeddah,Saudi Arabia,Max Verstappen,Max Verstappen,Max Verstappen,-800,1.12,12.0,29.0
 albert_park,Australia,Max Verstappen,Max Verstappen,Carlos Sainz,-700,1.14,-100.0,-71.0
@@ -11,15 +11,15 @@ villeneuve,Canada,Max Verstappen,Max Verstappen,Max Verstappen,-135,1.74,74.0,-1
 catalunya,Spain,Max Verstappen,Max Verstappen,Max Verstappen,-145,1.69,69.0,-66.0
 red_bull_ring,Austria,Max Verstappen,Max Verstappen,George Russell,-500,1.2,-100.0,-166.0
 silverstone,UK,Lando Norris,Lewis Hamilton,Lewis Hamilton,330,4.3,330.0,164.0
-hungaroring,Hungary,Lando Norris,Oscar Piastri,Oscar Piastri,600,7.0,600.0,764.0
-spa,Belgium,Lando Norris,Lewis Hamilton,Lewis Hamilton,850,9.5,850.0,1614.0
-zandvoort,Netherlands,Lando Norris,Max Verstappen,Lando Norris,180,2.8,-100.0,1514.0
-monza,Italy,Charles Leclerc,Lando Norris,Charles Leclerc,-225,1.44,-100.0,1414.0
-baku,Azerbaijan,Lando Norris,Oscar Piastri,Oscar Piastri,280,3.8,280.0,1694.0
-marina_bay,Singapore,Max Verstappen,Lando Norris,Lando Norris,-155,1.65,65.0,1759.0
-americas,USA,Max Verstappen,Lando Norris,Charles Leclerc,225,3.25,-100.0,1659.0
-rodriguez,Mexico,Lando Norris,Carlos Sainz,Carlos Sainz,150,2.5,150.0,1809.0
-interlagos,Brazil,Lando Norris,George Russell,Max Verstappen,500,6.0,-100.0,1709.0
-vegas,United States,George Russell,George Russell,George Russell,350,4.5,350.0,2059.0
-losail,Qatar,Lando Norris,George Russell,Max Verstappen,300,4.0,-100.0,1959.0
-yas_marina,UAE,Lando Norris,Oscar Piastri,Lando Norris,235,3.35,-100.0,1859.0
+hungaroring,Hungary,Lando Norris,Oscar Piastri,Oscar Piastri,300,4.0,300.0,464.0
+spa,Belgium,Lando Norris,Lewis Hamilton,Lewis Hamilton,450,5.5,450.0,914.0
+zandvoort,Netherlands,Lando Norris,Max Verstappen,Lando Norris,180,2.8,-100.0,814.0
+monza,Italy,Charles Leclerc,Lando Norris,Charles Leclerc,-225,1.44,-100.0,714.0
+baku,Azerbaijan,Lando Norris,Oscar Piastri,Oscar Piastri,280,3.8,280.0,994.0
+marina_bay,Singapore,Max Verstappen,Lando Norris,Lando Norris,-155,1.65,65.0,1059.0
+americas,USA,Max Verstappen,Lando Norris,Charles Leclerc,225,3.25,-100.0,959.0
+rodriguez,Mexico,Lando Norris,Carlos Sainz,Carlos Sainz,150,2.5,150.0,1109.0
+interlagos,Brazil,Lando Norris,George Russell,Max Verstappen,500,6.0,-100.0,1009.0
+vegas,United States,George Russell,George Russell,George Russell,350,4.5,350.0,1359.0
+losail,Qatar,Lando Norris,George Russell,Max Verstappen,300,4.0,-100.0,1259.0
+yas_marina,UAE,Lando Norris,Oscar Piastri,Lando Norris,235,3.35,-100.0,1159.0
