@@ -8,6 +8,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -24,14 +25,14 @@
   <p align="center">
     This project showcases the implementation and evaluation of machine learning algorithms, including XGBoost, Random Forest, SVM, and Logistic Regression, for predicting Formula 1 race outcomes, such as race winners and finishing groups (podium, points, no-points), using data from the 2020–2024 Formula 1 seasons.
     <br />
-    <a href="https://github.com/joelcalm/RandomForest"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/joelcalm/Formula1Prediction"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/joelcalm/RandomForest">View Demo</a>
+    <a href="https://github.com/joelcalm/Formula1Prediction">View Demo</a>
     ·
-    <a href="https://github.com/joelcalm/RandomForest/issues">Report Bug</a>
+    <a href="https://github.com/joelcalm/Formula1Prediction/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joelcalm/RandomForest/issues">Request Feature</a>
+    <a href="https://github.com/joelcalm/Formula1Prediction/issues">Request Feature</a>
   </p>
 </div>
 
@@ -155,7 +156,7 @@ A hypothetical betting scenario for the 2024 season was tested, using model pred
 
 Joel Calm  - [@joel-calm](https://www.linkedin.com/in/joel-calm/) - joelcalm44@gmail.com
 
-Project Link: [https://github.com/joelcalm/RandomForest](https://github.com/joelcalm/RandomForest)
+Project Link: [https://github.com/joelcalm/Formula1Prediction](https://github.com/joelcalm/Formula1Prediction)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -164,10 +165,10 @@ Project Link: [https://github.com/joelcalm/RandomForest](https://github.com/joel
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/joelcalm/RandomForest.svg?style=for-the-badge
-[contributors-url]: https://github.com/joelcalm/RandomForest/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/joelcalm/Formula1Prediction.svg?style=for-the-badge
+[contributors-url]: https://github.com/joelcalm/Formula1Prediction/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/puchee99/PytorchClassifier.svg?style=for-the-badge
-[forks-url]: https://github.com/joelcalm/RandomForest/network/members
-[stars-shield]: https://img.shields.io/github/stars/joelcalm/RandomForest.svg?style=for-the-badge
-[stars-url]: https://github.com/joelcalm/RandomForest/stargazers
-[issues-shield]: https://img.shields.io/github/issues/joelcalm/RandomForest.svg?style=for-the-badge
+[forks-url]: https://github.com/joelcalm/Formula1Prediction/network/members
+[stars-shield]: https://img.shields.io/github/stars/joelcalm/Formula1Prediction.svg?style=for-the-badge
+[stars-url]: https://github.com/joelcalm/Formula1Prediction/stargazers
+[issues-shield]: https://img.shields.io/github/issues/joelcalm/Formula1Prediction.svg?style=for-the-badge
