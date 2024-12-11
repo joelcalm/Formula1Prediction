@@ -16,14 +16,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joelcalm/RandomForest">
+  <a href="https://github.com/joelcalm/Formula1Prediction">
     <img src="img/rficon.png" alt="Logo" width="80" height="80">
   </a>  
 
-  <h3 align="center">Random Forest</h3>
+  <h3 align="center">Formula1 Outcome Prediction</h3>
 
   <p align="center">
-    This project showcases the implementation and evaluation of Random Forest algorithms for classification, regression, and anomaly detection across various datasets like Iris and MNIST.
+    This project showcases the implementation and evaluation of machine learning algorithms, including XGBoost, Random Forest, SVM, and Logistic Regression, for predicting Formula 1 race outcomes, such as race winners and finishing groups (podium, points, no-points), using data from the 2020–2024 Formula 1 seasons.
     <br />
     <a href="https://github.com/joelcalm/RandomForest"><strong>Explore the docs »</strong></a>
     <br />
