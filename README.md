@@ -28,7 +28,6 @@
     <a href="https://github.com/joelcalm/Formula1Prediction"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/joelcalm/Formula1Prediction">View</a>
     ·
     <a href="https://github.com/joelcalm/Formula1Prediction/issues">Report Bug</a>
     ·
@@ -130,26 +129,24 @@ We will create a virtual environment with `python3`
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
-Preprocessing & Feature Engineering Scripts:
-Scripts to merge datasets, clean missing values, and engineer additional features.
 
-Model Training:
-Jupyter notebooks or Python scripts for training models (Logistic Regression, Random Forest, SVM, XGBoost) on the prepared dataset.
+**Comprehensive Workflow in a Single Notebook:**
+- **Data Preprocessing:** Merging datasets, cleaning missing values, and engineering features
+- **Model Training:** Implementing and training multiple models (Logistic Regression, Random Forest, SVM, XGBoost)
+- **Model Evaluation:** Assessing performance with race-wise accuracy, group accuracy, and F1 scores
+- **Visualization:** Creating correlation matrices, ROC curves, and confusion matrices
+- **Betting Strategy:** Simulating predictive betting analysis and comparing returns to actual outcomes
 
-Evaluation & Visualization:
-Scripts and notebooks to evaluate the models using race-wise accuracy, group accuracy, and F1 scores. Visualizations (correlation matrices, ROC curves, confusion matrices) help interpret model performance.
-
-Betting Analysis (Optional):
-A separate module to simulate a betting strategy using predicted winners and compare returns to actual outcomes and odds.
-
-Results and Performance
+### Results and Performance
 After feature engineering and hyperparameter tuning:
 
-Winner Prediction: XGBoost improved race-wise accuracy from ~0.46 to ~0.66.
-Group Classification: Significant improvements in correctly identifying podium, points, and no-points finishers.
-Model Insights: Grid position, reliability metrics, and recent performance were among the most influential features.
-Betting Analysis
-A hypothetical betting scenario for the 2024 season was tested, using model predictions to place wagers. The resulting strategy yielded a positive ROI of 35.79%, indicating the potential real-world application of data-driven predictions for sports betting enthusiasts.
+* Winner Prediction: XGBoost improved race-wise accuracy from **~0.46 to ~0.66**.
+* Group Classification: Significant improvements in correctly identifying podium, points, and no-points finishers.
+* Model Insights: Grid position, reliability metrics, and recent performance were among the most influential features.
+
+### Betting Analysis
+
+A hypothetical betting scenario for the 2024 season was tested, using model predictions to place wagers. The resulting strategy yielded a positive ROI of **35.79%**, indicating the potential real-world application of data-driven predictions for sports betting enthusiasts.
 
 <!-- CONTACT -->
 ## Contact
