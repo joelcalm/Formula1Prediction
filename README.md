@@ -8,7 +8,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -16,8 +15,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/joelcalm/Formula1Prediction](https://github.com/joelcalm/Formula1Prediction/blob/main/logo.png)">
-    <img src="img/rficon.png" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/joelcalm/Formula1Prediction](https://github.com/joelcalm/Formula1Prediction)">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>  
 
   <h3 align="center">Formula1 Outcome Prediction</h3>
