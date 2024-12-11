@@ -23,7 +23,7 @@
   <h3 align="center">Formula1 Outcome Prediction</h3>
 
   <p align="center">
-    This project showcases the implementation and evaluation of machine learning algorithms, including XGBoost, Random Forest, SVM, and Logistic Regression, for predicting Formula 1 race outcomes, such as race winners and finishing groups (podium, points, no-points), using data from the 2020–2024 Formula 1 seasons.
+    This project showcases the implementation and evaluation of machine learning algorithms, including XGBoost, Random Forest, SVM, and Logistic Regression, for predicting Formula 1 race outcomes of 2020-2024 seasons, such as race winners and finishing groups (podium, points, no-points), using historical data from 1950 to the end of 2024 season.
     <br />
     <a href="https://github.com/joelcalm/Formula1Prediction"><strong>Explore the docs »</strong></a>
     <br />
