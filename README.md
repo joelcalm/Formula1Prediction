@@ -1,45 +1,9 @@
-\documentclass[12pt,a4paper]{article}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{lmodern}
-\usepackage{geometry}
-\geometry{margin=1in}
-\usepackage{listings}
-\usepackage{xcolor}
-
-% Define styles for code listings
-\lstset{
-    basicstyle=\ttfamily\small,
-    backgroundcolor=\color{lightgray!20},
-    frame=single,
-    numbers=left,
-    numberstyle=\tiny,
-    numbersep=5pt,
-    showstringspaces=false,
-    keywordstyle=\bfseries\color{blue},
-    commentstyle=\itshape\color{green!60!black},
-    stringstyle=\color{orange},
-    breaklines=true,
-}
-
-\title{README for Formula 1 Outcome Prediction Project}
-\author{Sir Calm}
-\date{\today}
-
-\begin{document}
-
-\maketitle
-
-\section*{README for Formula 1 Outcome Prediction Project}
-
-The following is the README content for the Formula 1 Outcome Prediction project, written in markdown format for GitHub:
-
-\section*{Markdown Code}
-
-\begin{lstlisting}[language=Markdown]
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
+<!--
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -48,30 +12,31 @@ The following is the README content for the Formula 1 Outcome Prediction project
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joelcalm/Formula1-Outcome-Prediction">
+  <a href="https://github.com/joelcalm/RandomForest">
     <img src="img/rficon.png" alt="Logo" width="80" height="80">
   </a>  
 
-  <h3 align="center">Predicting Formula 1 Race Outcomes Using Machine Learning</h3>
+  <h3 align="center">Random Forest</h3>
 
   <p align="center">
-    This project applies advanced machine learning models (XGBoost, Random Forest, SVM, Logistic Regression) to predict Formula 1 race winners and finishing groups (podium, points, no-points) for the 2020–2024 seasons. It leverages historical data, domain-specific feature engineering, and customized metrics to handle the unique constraints of race prediction.
+    This project showcases the implementation and evaluation of Random Forest algorithms for classification, regression, and anomaly detection across various datasets like Iris and MNIST.
     <br />
-    <a href="https://github.com/joelcalm/Formula1-Outcome-Prediction"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/joelcalm/RandomForest"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/joelcalm/Formula1-Outcome-Prediction">View Demo</a>
+    <a href="https://github.com/joelcalm/RandomForest">View Demo</a>
     ·
-    <a href="https://github.com/joelcalm/Formula1-Outcome-Prediction/issues">Report Bug</a>
+    <a href="https://github.com/joelcalm/RandomForest/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joelcalm/Formula1-Outcome-Prediction/issues">Request Feature</a>
+    <a href="https://github.com/joelcalm/RandomForest/issues">Request Feature</a>
   </p>
 </div>
 
-
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -136,23 +101,35 @@ This workflow led to significant improvements in accuracy after feature engineer
 
 ### Installation
 
-Clone the repository:
-```sh
-git clone https://github.com/joelcalm/Formula1Prediction.git
 
-Access the project folder:
-cd Formula1Prediction
+First, clone the repository:
+   ```sh
+   git clone https://github.com/joelcalm/Formula1Prediction.git
+   ```
+Access to the project folder with:
+  ```sh
+  cd Formula1Prediction
+  ```
 
-Create a virtual environment:
+We will create a virtual environment with `python3`
+* Create environment with python 3 
+    ```sh
+    python3 -m venv venv
+    ```
+    
+* Enable the virtual environment
+    ```sh
+    source venv/bin/activate
+    ```
 
-python3 -m venv venv
-source venv/bin/activate
+* Install the python dependencies on the virtual environment
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-Install dependencies:
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-pip install -r requirements.txt
-
-Usage
+## Usage
 Preprocessing & Feature Engineering Scripts:
 Scripts to merge datasets, clean missing values, and engineer additional features.
 
